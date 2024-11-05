@@ -1,3 +1,8 @@
+
+<img width="796" alt="Screenshot 1446-05-03 at 5 51 56 PM" src="https://github.com/user-attachments/assets/5454651c-bd14-48dd-8f0e-7c037b05955a">
+
+
+
 # Hydrate - Hydration Tracking App
 
 **Hydrate** is a user-friendly iOS application designed to help you stay hydrated throughout the day. By providing a simple and intuitive interface, Hydrate empowers users to track their water intake, set personalized goals, and receive timely reminders to ensure they maintain a healthy hydration level.
