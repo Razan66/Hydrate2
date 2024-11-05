@@ -16,6 +16,7 @@
 
 ## Screenshots
 
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-05 at 17 44 53](https://github.com/user-attachments/assets/4c682e8e-c3a5-4dd0-a240-1815c196980b)
 
 ![Screenshot 1]([https://github.com/user-attachments/assets/f8cc0060-53a4-4f91-bca8-c0c4ef1345bf](https://github.com/user-attachments/assets/894a9a53-21bd-4758-af2a-50b203c4b530))
 ![Screenshot 2](https://github.com/user-attachments/assets/07099172-8072-4035-ad05-5b4071142098)
