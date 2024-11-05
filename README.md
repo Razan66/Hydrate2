@@ -19,17 +19,13 @@
 
 - **Intuitive UI**: The app features a clean and visually appealing design, making it easy to use and track your hydration progress at a glance.
 
-## Screenshots
+## Screenshots 
 
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-05 at 17 44 53](https://github.com/user-attachments/assets/4c682e8e-c3a5-4dd0-a240-1815c196980b)
-
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-05 at 17 45 09](https://github.com/user-attachments/assets/23fa1165-2603-4aed-b60f-55251e87b584)
-
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-05 at 17 45 24](https://github.com/user-attachments/assets/619e7ca1-9f18-48af-a54d-a04e579bf5d0)
-
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-05 at 17 45 54](https://github.com/user-attachments/assets/ae4b12d5-35ee-4ee9-ab19-629241d35b58)
-
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-05 at 17 46 02](https://github.com/user-attachments/assets/ddbb5c55-0371-4b28-8e10-33148474438f)
-
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-05 at 17 46 10](https://github.com/user-attachments/assets/e1b4df24-ef55-4282-af3e-9049fb78e3a8)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c682e8e-c3a5-4dd0-a240-1815c196980b" width="100" />
+  <img src="https://github.com/user-attachments/assets/23fa1165-2603-4aed-b60f-55251e87b584" width="100" />
+  <img src="https://github.com/user-attachments/assets/619e7ca1-9f18-48af-a54d-a04e579bf5d0" width="100" />
+  <img src="https://github.com/user-attachments/assets/ae4b12d5-35ee-4ee9-ab19-629241d35b58" width="100" />
+  <img src="https://github.com/user-attachments/assets/ddbb5c55-0371-4b28-8e10-33148474438f" width="100" />
+  <img src="https://github.com/user-attachments/assets/e1b4df24-ef55-4282-af3e-9049fb78e3a8" width="100" />
+</p>
